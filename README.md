@@ -19,7 +19,6 @@
 
 <!-- social handles -->
 <div align="center"> 
-<!-- youtube -->
   <!-- gmail -->
   <a href="mailto:akhileshjaiswal00000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
@@ -28,9 +27,10 @@
 
 <hr />
 <!-- skills -->
-<h2 align="center">🔥 Languages 🔥</h2>
+<h2 align="center">🔥 Skills 🔥</h2>
 <br />
 
+<h3 align="center">Languages</h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=graphql,ts,js,html,css,sass" />
@@ -38,11 +38,18 @@
 </p>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,bootstrap" />
+  </a>
+</p>
+<br />
+
+<h3 align="center">Testing Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,cypress" />
   </a>
 </p>
 <br />
