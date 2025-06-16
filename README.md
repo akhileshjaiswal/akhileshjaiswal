@@ -34,7 +34,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter" />
     <br />
-    <img src="https://skillicons.dev/icons?i=jest,cypress,git,bitbucket,github,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=apollo,jest,cypress,git,bitbucket,github,githubactions,figma" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=dart,docker,express,firebase,grafana,kubernates,nodejs" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mongodb,npm,postman,redis,svg,vscode,webstorm,yarn," />
   </a>
 </p>
 <br />
