@@ -36,9 +36,9 @@
     <br />
     <img src="https://skillicons.dev/icons?i=apollo,jest,cypress,git,bitbucket,github,githubactions,figma" />
     <br />
-    <img src="https://skillicons.dev/icons?i=dart,docker,express,firebase,grafana,kubernates,nodejs" />
+    <img src="https://skillicons.dev/icons?i=dart,docker,express,firebase,grafana,kubernetes,nodejs,mongodb,npm" />
     <br />
-    <img src="https://skillicons.dev/icons?i=mongodb,npm,postman,redis,svg,vscode,webstorm,yarn," />
+    <img src="https://skillicons.dev/icons?i=postman,redis,svg,vscode,webstorm,yarn," />
   </a>
 </p>
 <br />
