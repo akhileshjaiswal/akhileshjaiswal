@@ -30,7 +30,6 @@
 <h2 align="center">🔥 Frameworks & tools used 🔥</h2>
 <br />
 
-<h3 align="center">Languages</h3>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
