@@ -38,7 +38,7 @@
     <br />
     <img src="https://skillicons.dev/icons?i=dart,docker,express,firebase,grafana,kubernetes,nodejs,mongodb,npm" />
     <br />
-    <img src="https://skillicons.dev/icons?i=postman,redis,svg,vscode,webstorm,yarn," />
+    <img src="https://skillicons.dev/icons?i=tailwind,postman,redis,svg,vscode,webstorm,yarn," />
   </a>
 </p>
 <br />
