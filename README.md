@@ -43,4 +43,10 @@
 </p>
 <br />
 
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,netlify,vercel" />
+  </a>
+</p>
 <hr />
