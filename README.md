@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=akhileshjaiswal">
 
-<!--
-**akhileshjaiswal/akhileshjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- introduction -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=0A40F7&multiline=true&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB%2C+Myself+Akhilesh+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Akhilesh Jaiswal, Web Developer/Coder 💻,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 I’m currently a FrontEnd Developer @ TCS.
+  <br />
+</p>
