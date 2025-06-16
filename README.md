@@ -27,29 +27,13 @@
 
 <hr />
 <!-- skills -->
-<h2 align="center">🔥 Skills 🔥</h2>
+<h2 align="center">🔥 Frameworks & tools used 🔥</h2>
 <br />
 
 <h3 align="center">Languages</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,ts,js,html,css,sass" />
-  </a>
-</p>
-<br />
-
-<h3 align="center">Frameworks & Libraries</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,reactivex,bootstrap" />
-  </a>
-</p>
-<br />
-
-<h3 align="center">Testing Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
   </a>
 </p>
 <br />
