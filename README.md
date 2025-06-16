@@ -33,13 +33,9 @@
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
   </a>
-    <picture>
-      <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma""></img>
-    </picture>
-    <picture>
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
 </p>
 <br />
 
