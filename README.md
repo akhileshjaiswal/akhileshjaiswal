@@ -16,3 +16,12 @@
   🧑‍💼 I’m currently a FrontEnd Developer @ TCS.
   <br />
 </p>
+
+<!-- social handles -->
+<div align="center"> 
+<!-- youtube -->
+  <!-- gmail -->
+  <a href="mailto:akhileshjaiswal00000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/akhilesh-jaiswal-91105b179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
