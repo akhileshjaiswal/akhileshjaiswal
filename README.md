@@ -32,9 +32,9 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter" />
     <br />
-    <img src="https://skillicons.dev/icons?i=angular,graphql,ts,js,reactivex,html,css,sass,flutter,jest,cypress,git,bitbucket,github,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=jest,cypress,git,bitbucket,github,githubactions,figma" />
   </a>
 </p>
 <br />
